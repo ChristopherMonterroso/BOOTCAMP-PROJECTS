@@ -98,5 +98,8 @@
       }
     }
   
+    function aoClicarLentoNoBotao(e) {
+    }
+  
     document.addEventListener("DOMContentLoaded", quandoADOMEstiverPronta);
   })();
