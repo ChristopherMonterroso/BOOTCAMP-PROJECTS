@@ -2,3 +2,6 @@ https://christophermonterroso.github.io/BOOTCAMP-PROYECTS/HTML_CSS/GatosHtml/Gat
 https://christophermonterroso.github.io/BOOTCAMP-PROYECTS/HTML_CSS/Coffee/coffeeHTML.html
 https://christophermonterroso.github.io/BOOTCAMP-PROYECTS/HTML_CSS/Markers/markes.html
 https://christophermonterroso.github.io/BOOTCAMP-PROYECTS/HTML_CSS/SignUpForm/form.html
+https://christophermonterroso.github.io/BOOTCAMP-PROYECTS/HTML_CSS/Survey/Survey.html
+https://christophermonterroso.github.io/BOOTCAMP-PROYECTS/HTML_CSS/BoxesModel/boxes.html
+https://christophermonterroso.github.io/BOOTCAMP-PROYECTS/HTML_CSS/FlexBox/photoGallery.html
